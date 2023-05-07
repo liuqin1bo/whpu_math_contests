@@ -62,6 +62,7 @@
 * ```./rescources/数学竞赛讲义2_part3.pdf```  
 * ```./rescources/数学竞赛讲义2_补充资料1.pdf``` 
 * ```./rescources/数学竞赛讲义2_补充资料1_批注.pdf```  
+* ```./rescources/练习2.pdf``` 
 * ```./rescources/练习3.pdf``` 
 * ```./rescources/练习3及答案.pdf``` 
 * ```./rescources/讲义5-6-7.pdf```
