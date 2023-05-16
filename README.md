@@ -54,7 +54,8 @@
 #### 备注: 
 老师每周会在群里发步测试习题，请同学们积极参与并主动与老师，其他同学讨论。
 
-## 4.培训讲义(主要针对大学生数学竞赛)
+## 4.培训讲义
+### 4.1 大学生数学竞赛
 * ```./rescources/讲义与练习题1.pdf```  
 * ```./rescources/讲义习题及答案1.pdf```  
 * ```./rescources/数学竞赛讲义与练习2_part1.pdf```  
@@ -66,6 +67,26 @@
 * ```./rescources/练习3.pdf``` 
 * ```./rescources/练习3及答案.pdf``` 
 * ```./rescources/讲义5-6-7.pdf```
+
+### 4.2 2023新增
+#### 4.2.1 多元积分学讲义(待更新)
+* Riemann积分的定义与性质
+* Fubini定理(Riemann可积版本)
+* 积分计算与应用
+* (Smooth) Urysohn's 引理(smooth) 与 Partition of Identity(POI)
+* Sard's 定理
+* 坐标变换
+* 反常积分, 不定积分(Gamma, Beta函数, 卷积)
+* Weierstrass逼近定理, Fourier变换, Schwartz 空间
+* 曲线曲面积分
+* Green's Theorem, Stokes's Theorem, Gauss-Green's Theorem
+* 欧式空间上的Brouwer不动点定理
+* 一阶微分方程(ODE&PDE)
+* 高阶微分方程
+
+参考书目:   
+* <font color=blue>《Functions of several real variables》</font>by Paliogiannis, Fotios Moskowitz, Martin A ;
+World Scientific Publishing (2011)
 
 ## 5.模拟试卷(2022)
 * ```./rescources/数学竞赛模拟试卷1.pdf```  
