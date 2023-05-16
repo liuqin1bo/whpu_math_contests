@@ -73,7 +73,7 @@
 * Riemann积分的定义与性质
 * Fubini定理(Riemann可积版本)
 * 积分计算与应用
-* (Smooth) Urysohn's 引理(smooth) 与 Partition of Identity(POI)
+* (Smooth) Urysohn's 引理 与 Partition of Identity(POI)
 * Sard's 定理
 * 坐标变换
 * 反常积分, 不定积分(Gamma, Beta函数, 卷积)
